@@ -1,0 +1,10 @@
+[debug] Test run started
+[debug] Test Tests.testAssignment started
+[debug] Test Tests.testAssignment finished
+[debug] Test Tests.instrumentationTestClassInitializer started
+[debug] Test Tests.instrumentationTestClassInitializer finished
+[debug] Test Tests.instrumentationTestVariableDeclaration started
+[debug] Test Tests.instrumentationTestVariableDeclaration finished
+[debug] Test Tests.testBlockInstrumentation started
+[debug] Test Tests.testBlockInstrumentation finished
+[debug] Test run finished: 0 failed, 0 ignored, 4 total, 3.682s

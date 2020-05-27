@@ -1,0 +1,45 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/shin_imai_hw3_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject/MyASTVisitor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject/MyASTVisitor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject/MyASTVisitor$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject/MyASTVisitor$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject/MyASTVisitor$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject/MyASTVisitor$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject/MyASTVisitor$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject/MyASTVisitor$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject/MyASTVisitor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject/MyASTVisitor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	courseproject/MyASTVisitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/courseproject/MyASTVisitor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	driver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/driver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	driver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/driver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	driver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/driver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	launcherClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/launcherClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/logback-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleJava[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/SampleJava[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleJava/MyClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/SampleJava/MyClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleJava/old_OtherClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/SampleJava/old_OtherClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleJava/OtherClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/SampleJava/OtherClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleJava/TemplateClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/SampleJava/TemplateClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SampleJava/_instrOtherClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/SampleJava/_instrOtherClass.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TemplateClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /mnt/c/Users/Shin's Dell/IdeaProjects/courseproject/course_project/target/scala-2.13/classes/TemplateClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
