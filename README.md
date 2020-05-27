@@ -1,5 +1,5 @@
 # Course Project
-##### Shin Imai, Jon-Michael Hoang, Ronny Recinos (Group member owned)
+##### shinchan1506, Contra3, MichaelJHoang
 
 ## Logistics and How to run
 This project was created and developed in IntelliJ IDEA 2019.2.1. Tested and run with sbt 1.3.2. 
