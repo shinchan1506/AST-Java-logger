@@ -1,4 +1,3 @@
-# Course Project
 ##### shinchan1506, Contra3, MichaelJHoang
 
 ## Logistics and How to run
