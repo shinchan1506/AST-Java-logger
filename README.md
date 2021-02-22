@@ -1,4 +1,5 @@
 ##### shinchan1506, Contra3, MichaelJHoang
+Bought over to github from bitbucket
 
 ## Logistics and How to run
 This project was created and developed in IntelliJ IDEA 2019.2.1. Tested and run with sbt 1.3.2. 
